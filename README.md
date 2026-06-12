@@ -1091,25 +1091,37 @@ No. REIMEI Civilization OS is not anti-technology. It supports technologies such
 
 ---
 
-## Related Documents
+## Related GitHub Documents
 
-### Japanese Version
+### Civilization OS and REIMEI Civilization OS
 
-**次世代文明OS／黎明文明OS**  
-[Read the Japanese version](README_ja.md)
+- [Civilization OS / Japanese](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [Civilization OS / English](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [Next Civilization OS / REIMEI Civilization OS / Japanese](README_ja.md)
+
+### REIMEI Civilization and Planetary Circulation
+
+- [REIMEI Civilization: Planetary Circulation Transition / Japanese](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+- [REIMEI Civilization: Planetary Circulation Transition / English](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
+
+### Sustainable Future Civilization Master Plans
+
+- [Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan)
+- [Natural-Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+
+### Related OS Models
+
+- [Urban–Civilization OS / Japanese](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
+- [Urban–Civilization OS / English](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+- [Natural–Microbial OS / Japanese](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
+- [Natural–Microbial OS / English](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
+- [Planetary Heat & Circulation OS / Japanese](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
+- [Planetary Heat & Circulation OS / English](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
 ### NOTE Article
 
 **次世代文明OS／黎明文明OS**  
 https://note.com/inchacomusho/n/n09d9ae9127ac
-
-### Civilization OS
-
-**文明OS / Civilization OS**  
-https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md
-
-**Civilization OS**  
-https://github.com/InchaComisho/Civilization-OS/blob/main/README.md
 
 ---
 
