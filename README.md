@@ -1096,7 +1096,7 @@ No. REIMEI Civilization OS is not anti-technology. It supports technologies such
 ### Japanese Version
 
 **次世代文明OS／黎明文明OS**  
-README_ja.md
+[Read the Japanese version](README_ja.md)
 
 ### NOTE Article
 
