@@ -9,6 +9,7 @@
 本ドキュメントは、文明OSを次の段階へ発展させた中核文書です。  
 現文明OSの診断を前提に、自然法則・惑星循環・AI時代に適合する **次世代文明OS／黎明文明OS** を定義します。
 
+- [Civilization OS Framework / 文明OS体系（統合ポータル）](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
 - [文明OS / Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
 
 ---

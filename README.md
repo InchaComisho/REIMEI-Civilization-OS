@@ -9,6 +9,7 @@
 This document is the next-stage core document of the Civilization OS framework.  
 It develops **REIMEI Civilization OS / Next Civilization OS** as a model for aligning civilization with natural law, planetary circulation, and the age of AI.
 
+- [Civilization OS Framework (Integrated Portal)](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
 - [Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
 
 ---
