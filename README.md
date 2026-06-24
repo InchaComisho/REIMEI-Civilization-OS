@@ -1149,6 +1149,9 @@ https://note.com/inchacomusho/n/n09d9ae9127ac
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
+
 ## Repository Name
 
 **REIMEI-Civilization-OS**
