@@ -13,6 +13,7 @@
 
 - [Civilization OS Framework / 文明OS体系（統合ポータル）](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
 - [文明OS / Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
 - [六つの理を文明OSカーネルとして組み込む](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/SIX_PRINCIPLES_AS_CIVILIZATION_OS_KERNEL_ja.md)
 - [現文明が失敗した理由──六つの理による文明OS診断](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/WHY_CURRENT_CIVILIZATION_FAILED_BY_SIX_PRINCIPLES_ja.md)
 
@@ -22,6 +23,7 @@
 
 - [Civilization-OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
+- [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
 - [REIMEI-Civilization-OS](README_ja.md)
 - [REIMEI-Planetary-Circulation](https://github.com/InchaComisho/REIMEI-Planetary-Circulation/blob/main/README_ja.md)
 - [Urban-Civilization-OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
