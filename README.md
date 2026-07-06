@@ -1,5 +1,7 @@
 # REIMEI Civilization OS / Next Civilization OS
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Conceptual Architecture for a Civilization Compatible with Natural Law, Planetary Circulation, and the Age of AI
 
 [日本語](README_ja.md)

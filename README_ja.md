@@ -1,5 +1,7 @@
 # 次世代文明OS／黎明文明OS
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## REIMEI Civilization OS: 自然法則とAI時代に整合する次世代文明OSの概念アーキテクチャ
 
 [English](README.md)
